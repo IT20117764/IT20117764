@@ -11,7 +11,7 @@
   <img align="left" alt="Tharuka's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://medium.com/@trdilshan99">
-  <img align="left" alt="Tharuka's medium" width="22px" src="" />
+  <img align="left" alt="Tharuka's medium" width="22px" src="https://github.com/IT20117764/it20117764/blob/main/assert/medium_logo_icon_189223.svg" />
 </a>
 </br></br></br>
 
