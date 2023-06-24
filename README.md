@@ -11,7 +11,7 @@
   <img align="left" alt="Tharuka's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://medium.com/@trdilshan99">
-  <img align="left" alt="Tharuka's medium" width="22px" src="https://play.google.com/store/apps/details?id=com.medium.reader&hl=en_US" />
+  <img align="left" alt="Tharuka's medium" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Ficon%2Fmedium-logo%2F189223&psig=AOvVaw01UbBiqadxZkQGVTjsa4Vw&ust=1687712278987000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPDJtqmw3P8CFQAAAAAdAAAAABAJ" />
 </a>
 </br></br></br>
 
