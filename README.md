@@ -4,9 +4,9 @@
 <a href="https://www.instagram.com/tharukad92/">
   <img align="left" alt="Tharuka's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://twitter.com/tharukad92">
+<!-- <a href="https://twitter.com/tharukad92">
   <img align="left" alt="Tharuka's twitter | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+</a> -->
 <a href="https://github.com/IT20117764">
   <img align="left" alt="Tharuka's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
